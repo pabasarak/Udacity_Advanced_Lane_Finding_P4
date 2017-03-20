@@ -2,7 +2,7 @@
 
 This contains
 
-wrteup report
+writeup report
 
 python code
 
